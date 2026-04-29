@@ -2,6 +2,8 @@
 
 I am a Business Analytics Major and Minoring in Comupter Science and I plan on Graduating in 2028.
 
+My GitHub Page is https://github.com/alexgon06
+
 ## Favorite CPSC 120L Labs
 
 * Lab 7, 
